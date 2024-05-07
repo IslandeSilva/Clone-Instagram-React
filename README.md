@@ -1,3 +1,6 @@
+![image](https://github.com/IslandeSilva/https---github.com-IslandeSilva-Clone-Instagram-React/assets/38857120/0012d2d6-4b00-4b0b-b94d-ba9f7e1d696b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
