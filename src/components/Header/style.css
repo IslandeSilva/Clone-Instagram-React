@@ -1,0 +1,50 @@
+.header {
+    background: var(--background);
+    border-bottom: 1px solid var(--border);
+
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 60px;
+    max-width: 957px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.header .logo {
+    width: 120px;
+    height: 30px;
+}
+
+.input-fake {
+    background: var(--background-main);
+    border-radius: 3px;
+    border: 1px solid var(--border);
+    padding: 3px 10px;
+    display: flex;
+    align-items: center;
+}
+
+.input-fake input{
+    font-size: 14px;
+    padding: 0 7px;
+}
+
+.menu-icons {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    cursor: pointer;
+}
+.menu-icons .img-user{
+    width: 28px;
+    height: 28px;
+    border-radius: 100%;
+}
